@@ -5,31 +5,6 @@
 
 This project classifies chest X-ray images into **COVID-19**, **Normal**, or **Viral Pneumonia** using a deep learning model (ResNet18). It is trained and evaluated using the **COVID-19 Radiography Dataset**.
 
----
-
-## 📁 Dataset Structure
-
-The dataset must follow this structure:
-
-```
-
-datasets/COVID-19\_Radiography\_Dataset/
-├── train/
-│   ├── COVID/
-│   │   └── images/
-│   ├── Normal/
-│   │   └── images/
-│   └── Viral Pneumonia/
-│       └── images/
-├── val/
-│   ├── COVID/
-│   │   └── images/
-│   ├── Normal/
-│   │   └── images/
-│   └── Viral Pneumonia/
-│       └── images/
-
-````
 
 > ✅ Use `images/` inside each class folder in both `train/` and `val/`.
 
