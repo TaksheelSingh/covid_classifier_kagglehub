@@ -1,7 +1,3 @@
-Here’s a professional and updated `README.md` file for your **COVID-19 Chest X-ray Classifier** project using PyTorch and ResNet18. It reflects the complete flow including training, inference, evaluation, and visualization:
-
----
-
 ### ✅ `README.md`
 
 ```markdown
@@ -137,9 +133,4 @@ Displays true and predicted labels with confidence scores.
 * Dataset: [COVID-19 Radiography Database – Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 * Model: PyTorch ResNet18
 
-```
 
----
-
-Would you like this `README.md` exported as a file for download?
-```

@@ -101,5 +101,3 @@ for epoch in range(num_epochs):
 
 # ✅ Save best model
 model.load_state_dict(best_model_weights)
-torch.save(model.state_dict(), "covid_classifier.pth")
-print("📁 Model saved as covid_classifier.pth")
